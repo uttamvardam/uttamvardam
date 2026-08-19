@@ -54,54 +54,6 @@ I build practical, end-to-end AI solutions focused on solving real-world busines
 
 ---
 
-# 🚀 Featured Projects
-
-## 🚗 Vehicle Damage Detection
-**Deep Learning | PyTorch | ResNet50 | Streamlit**
-
-- Built a vehicle damage classification system covering **6 categories**
-- Worked with **2,300+ vehicle images**
-- Compared Custom CNN, EfficientNet-B0 and ResNet50
-- ResNet50 achieved **79.48% validation accuracy**
-- Applied **Optuna** for hyperparameter tuning
-- Deployed using Streamlit for real-time prediction
-
----
-
-## 💳 Credit Risk Prediction
-**Machine Learning | Scikit-Learn | XGBoost | Streamlit**
-
-- Built end-to-end credit risk prediction system
-- Feature engineering using **VIF, WOE/IV**
-- Handled imbalance using **SMOTE + Tomek Links**
-- Final model achieved:
-  - ✅ 93% Accuracy
-  - ✅ 0.83 F1 Score
-  - ✅ 0.98 ROC-AUC
-- Deployed using Streamlit
-
----
-
-## 🏥 Insurance Premium Prediction
-**Machine Learning | Linear Regression | XGBoost | Streamlit**
-
-- Built health insurance premium prediction system
-- Used customer attributes like age, BMI, income, smoking status
-- Applied different models for different age groups
-- Deployed using Streamlit
-
----
-
-## 📊 Business & Data Analytics
-**SQL | Power BI | Excel**
-
-- 📌 Crisis Recovery Insights – Quick Bite Express
-- 📌 Bharat Herald Dashboard (5 Indian states analysis)
-- 📌 Instagram Analytics – 9 months data (Reels = 61.6% reach)
-
-
----
-
 # 🌱 Currently Learning
 
 **Generative AI & Large Language Models (LLMs)**  
