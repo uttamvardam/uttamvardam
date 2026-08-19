@@ -33,24 +33,6 @@ I build practical, end-to-end AI solutions focused on solving real-world busines
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
----
-
-# 🧠 Core Skills
-
-### Machine Learning
-**Predictive Modeling** • **Feature Engineering** • **Model Evaluation** • **Hyperparameter Optimization**
-
-### Deep Learning
-**Neural Networks** • **CNN** • **RNN** • **Transfer Learning** • **Transformers**
-
-### Natural Language Processing
-**Text Preprocessing** • **Text Representation** • **NLP**
-
-### Data Analytics
-**Exploratory Data Analysis (EDA)** • **Data Visualization** • **Insight Generation** • **Business Recommendations**
-
-### Risk & Financial Analytics
-**Credit Risk** • **Insurance Analytics** • **Financial Data Analysis** • **Risk Analysis**
 
 ---
 
