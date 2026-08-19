@@ -10,7 +10,7 @@ I build practical, end-to-end AI solutions focused on solving real-world busines
 - 🌱 **Currently learning:** Generative AI & Large Language Models (LLMs)
 - 💬 **Ask me about:** Python, SQL, Machine Learning, Deep Learning & NLP
 - 📊 **Interested in:** Predictive Modeling, Risk Analysis & Business Analytics
-- ⚡ **Background:** Data Science + Auditing + Risk Analysis
+
 
 ---
 
