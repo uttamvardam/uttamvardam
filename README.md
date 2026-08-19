@@ -1,5 +1,5 @@
 
-#👋 Hi, I'm Uttam Ramesh Vardam
+# 👋 Hi, I'm Uttam Ramesh Vardam
 
 **Data Science professional with 3+ years of auditing experience and hands-on experience in Machine Learning, Deep Learning, NLP, and Data Analytics.**
 
