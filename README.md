@@ -16,7 +16,7 @@ I build practical, end-to-end AI solutions focused on solving real-world busines
 
 # 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/uttam-vardam-9666a9254](https://www.linkedin.com/in/uttam-vardam-9666a9254/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uttam-vardam-9666a9254/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uttamvardam@gmail.com)
 
 ---
