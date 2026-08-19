@@ -171,12 +171,5 @@ Focus on real-world AI applications and intelligent systems.
 ---
 
 ⭐ *Explore my repositories to see my work in Data Science, Machine Learning, Deep Learning, NLP and Business Analytics.*
-```
 
-If you want next level upgrade, I can also:
-✅ Add GitHub stats card
-✅ Add animated header banner
-✅ Add “Featured Projects with live demo buttons”
-✅ Make it look like top 1% GitHub profiles
 
-Just tell me 👍
