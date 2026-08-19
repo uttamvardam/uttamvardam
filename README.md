@@ -1,9 +1,27 @@
-# 💫 About Me:
-Data Science professional with 3+ years of auditing experience and hands-on experience in Machine Learning, Deep Learning, NLP, and Data Analytics. I build practical, end-to-end AI solutions focused on solving real-world business problems.<br><br>About Me<br><br>You can fill the six fields like this:<br><br>🛠️ I’m currently working on: Machine Learning & Deep Learning projects<br>👥 I’m looking to collaborate on: Data Science, ML & AI projects<br>🤝 I’m looking for help with: Generative AI & LLM applications<br>🌱 I’m currently learning: Generative AI, LLMs & advanced NLP<br>💬 Ask me about: Python, SQL, Machine Learning, Deep Learning & Data Analytics<br>⚡ Fun fact: My background combines Data Science, Finance, Auditing & Risk Analysis
 
+# 👋 About Me
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/uttam-vardam-9666a9254) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:uttamvardam@gmail.com) 
+**Data Science professional with 3+ years of auditing experience and hands-on experience in Machine Learning, Deep Learning, NLP, and Data Analytics.**
+
+I build practical, end-to-end AI solutions focused on solving real-world business problems across **finance, insurance, credit risk, computer vision, and business analytics**.
+
+- 🔭 **Currently working on:** Machine Learning & Deep Learning projects
+- 🤝 **Looking to collaborate on:** Data Science, ML & AI projects
+- 🌱 **Currently learning:** Generative AI & Large Language Models (LLMs)
+- 💬 **Ask me about:** Python, SQL, Machine Learning, Deep Learning & NLP
+- 📊 **Interested in:** Predictive Modeling, Risk Analysis & Business Analytics
+- ⚡ **Background:** Data Science + Finance + Auditing + Risk Analysis
+
+---
+
+# 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uttamvardam@gmail.com)
+
+---
+
+# 💻 Tech Stack
 
 ### 🐍 Programming
 
@@ -19,6 +37,10 @@ Data Science professional with 3+ years of auditing experience and hands-on expe
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
+### 💬 Natural Language Processing
+
+![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge)
+
 ### 📊 Analytics
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -30,3 +52,131 @@ Data Science professional with 3+ years of auditing experience and hands-on expe
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+# 🧠 Core Skills
+
+### Machine Learning
+**Predictive Modeling** • **Feature Engineering** • **Model Evaluation** • **Hyperparameter Optimization**
+
+### Deep Learning
+**Neural Networks** • **CNN** • **RNN** • **Transfer Learning** • **Transformers**
+
+### Natural Language Processing
+**Text Preprocessing** • **Text Representation** • **NLP**
+
+### Data Analytics
+**Exploratory Data Analysis (EDA)** • **Data Visualization** • **Insight Generation** • **Business Recommendations**
+
+### Risk & Financial Analytics
+**Credit Risk** • **Insurance Analytics** • **Financial Data Analysis** • **Risk Analysis**
+
+---
+
+# 🚀 Featured Projects
+
+## 🚗 Vehicle Damage Detection
+**Deep Learning | PyTorch | ResNet50 | Streamlit**
+
+- Built a vehicle damage classification system covering **6 categories**
+- Worked with **2,300+ vehicle images**
+- Compared Custom CNN, EfficientNet-B0 and ResNet50
+- ResNet50 achieved **79.48% validation accuracy**
+- Applied **Optuna** for hyperparameter tuning
+- Deployed using Streamlit for real-time prediction
+
+---
+
+## 💳 Credit Risk Prediction
+**Machine Learning | Scikit-Learn | XGBoost | Streamlit**
+
+- Built end-to-end credit risk prediction system
+- Feature engineering using **VIF, WOE/IV**
+- Handled imbalance using **SMOTE + Tomek Links**
+- Final model achieved:
+  - ✅ 93% Accuracy
+  - ✅ 0.83 F1 Score
+  - ✅ 0.98 ROC-AUC
+- Deployed using Streamlit
+
+---
+
+## 🏥 Insurance Premium Prediction
+**Machine Learning | Linear Regression | XGBoost | Streamlit**
+
+- Built health insurance premium prediction system
+- Used customer attributes like age, BMI, income, smoking status
+- Applied different models for different age groups
+- Deployed using Streamlit
+
+---
+
+## 📊 Business & Data Analytics
+**SQL | Power BI | Excel**
+
+- 📌 Crisis Recovery Insights – Quick Bite Express
+- 📌 Bharat Herald Dashboard (5 Indian states analysis)
+- 📌 Instagram Analytics – 9 months data (Reels = 61.6% reach)
+
+---
+
+# 💼 Experience
+
+### Data Analyst Intern — AtliQ Technologies
+**Sep 2025 – Oct 2025**
+
+- SQL, Excel, Power BI, Python for analytics
+- Built dashboards for KPI tracking
+- Analyzed 5,100+ YouTube videos
+- Instagram analytics: Reels drove highest engagement
+
+---
+
+### Audit — Kochar & Associates
+**Jan 2015 – Jan 2018**
+
+- Bank & Concurrent Audit
+- Financial analysis & risk monitoring
+- Identified ₹80,000/month leakage
+- Loan performance tracking
+
+---
+
+# 📜 Certifications
+
+- SQL (Beginner to Advanced)
+- Python (Beginner to Advanced)
+- Power BI Data Analytics
+- Excel for Business Intelligence
+- Machine Learning
+- Deep Learning
+- NLP
+- Math & Statistics for AI
+
+---
+
+# 🌱 Currently Learning
+
+**Generative AI & Large Language Models (LLMs)**  
+Focus on real-world AI applications and intelligent systems.
+
+---
+
+# 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uttamvardam@gmail.com)
+
+---
+
+⭐ *Explore my repositories to see my work in Data Science, Machine Learning, Deep Learning, NLP and Business Analytics.*
+```
+
+If you want next level upgrade, I can also:
+✅ Add GitHub stats card
+✅ Add animated header banner
+✅ Add “Featured Projects with live demo buttons”
+✅ Make it look like top 1% GitHub profiles
+
+Just tell me 👍
