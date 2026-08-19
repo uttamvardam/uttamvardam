@@ -14,7 +14,7 @@ I build practical, end-to-end AI solutions focused on solving real-world busines
 
 ---
 
-# 🌐 Socials
+# 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uttamvardam@gmail.com)
@@ -163,12 +163,7 @@ Focus on real-world AI applications and intelligent systems.
 
 ---
 
-# 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uttamvardam@gmail.com)
-
----
 
 ⭐ *Explore my repositories to see my work in Data Science, Machine Learning, Deep Learning, NLP and Business Analytics.*
 
